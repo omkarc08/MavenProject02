@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="41149" started-at="2021-12-21T15:57:29Z" finished-at="2021-12-21T15:58:11Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="41149" started-at="2021-12-21T15:57:29Z" finished-at="2021-12-21T15:58:11Z">
+      <class name="Basic_Operations.TestActiTime">
+        <test-method status="PASS" signature="testlogin()[pri:0, instance:Basic_Operations.TestActiTime@11dc3715]" name="testlogin" duration-ms="41122" started-at="2021-12-21T21:27:30Z" finished-at="2021-12-21T21:28:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+      </class> <!-- Basic_Operations.TestActiTime -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+  <suite name="Suite (0)" duration-ms="8280" started-at="2021-12-21T15:58:11Z" finished-at="2021-12-21T15:58:19Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8280" started-at="2021-12-21T15:58:11Z" finished-at="2021-12-21T15:58:19Z">
+      <class name="Basic_Operations.TestSimpleLogin">
+        <test-method status="PASS" signature="testActitimeLogin()[pri:0, instance:Basic_Operations.TestSimpleLogin@79ad8b2f]" name="testActitimeLogin" duration-ms="8278" started-at="2021-12-21T21:28:11Z" finished-at="2021-12-21T21:28:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testActitimeLogin -->
+      </class> <!-- Basic_Operations.TestSimpleLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (0) -->
+</testng-results>
